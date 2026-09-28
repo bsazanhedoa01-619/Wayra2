@@ -1,0 +1,6 @@
+{
+  "name": "Wayra Café - Coffee Break Cusco",
+  "description": "Landing page corporativa para Wayra Café: servicio de coffee break y café de especialidad de La Convención para reuniones de 10 a 40 personas en Cusco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
